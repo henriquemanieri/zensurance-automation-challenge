@@ -1,0 +1,24 @@
+{
+  "values": {
+    "revenueValue": "$70,000"
+  },
+  "errorMessages": {
+    "professionalFieldErrorMessage": "Please select an industry",
+    "defaultErrorIndicator": "There are a few errors above",
+    "percentageErrorBox": "Total must equal 100%",
+    "invalidEmailErrorMessage": "Please enter a valid email address (ex: john@example.com)"
+  },
+  "email": {
+    "invalidEmail": "asdf@u4fb2"
+  },
+  "searchKeyWords": {
+    "invalidSearch": "faw",
+    "validSearch": "hair"
+  },
+  "data": {
+    "dataResponseComparison": "Hairstylist / Barber\nBeauty, Spa, and Aesthetics",
+    "industryNameData": "Hairstylist / Barber",
+    "country": "Brazil"
+  }
+  
+}

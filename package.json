@@ -1,0 +1,13 @@
+{
+    "name": "zensurance-automation-challenge",
+    "main": "index.js",
+    "scripts": {
+        "cypress:open": "cypress open",
+        "cy:run:chrome": "cypress run --browser chrome"
+    },
+    "devDependencies": {
+        "@4tw/cypress-drag-drop": "^2.0.0",
+        "chance": "^1.1.5",
+        "cypress": "^6.2.0"
+    }
+}
